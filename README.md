@@ -6,7 +6,7 @@ Studying electrical engineering at University of Canterbury
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-viles-15509av) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alanmviles) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-viles) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alanmviles) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=alanviles&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true)
